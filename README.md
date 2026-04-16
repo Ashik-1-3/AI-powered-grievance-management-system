@@ -1,6 +1,6 @@
 # AI-powered-grievance-management-system
     
-    This project aims to automatically classify public grievances into appropriate categories using Natural Language Processing (NLP) and Machine Learning. In large-scale grievance systems, manual categorization is time-consuming, error-prone, and inefficient.
+   This project aims to automatically classify public grievances into appropriate categories using Natural Language Processing (NLP) and Machine Learning. In large-scale grievance systems, manual categorization is time-consuming, error-prone, and inefficient.
 
   By automating this process, the system helps in faster routing of complaints to the correct departments, improves response time, and enhances overall efficiency in grievance redressal systems.
 
